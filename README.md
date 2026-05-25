@@ -17,6 +17,7 @@ The dataset contains many types of Vietnamese traffic signs, including:
 ## Dataset Information
 
 The database includes:
+<img width="2702" height="541" alt="image" src="https://github.com/user-attachments/assets/2a9bb5b9-df7c-4d52-bd5a-0d16368c9f45" />
 
 * Geographic coordinates (latitude and longitude)
 * Traffic sign type/classification
